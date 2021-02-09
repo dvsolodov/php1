@@ -1,0 +1,11 @@
+.gallery_pic {
+    display: inline-block;
+}
+.gallery_pic a,
+.gallery_pic span {
+    display: block;
+}
+.picture img,
+.picture span {
+    display: block;
+}
